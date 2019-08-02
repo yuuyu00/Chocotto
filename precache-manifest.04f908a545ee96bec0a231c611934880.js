@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3e48faea09d9f5e162e57082727a5c6",
+    "revision": "522f135d16cac2b98e433fb61304fcae",
     "url": "/Chocotto/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chocotto/static/js/2.be9c890b.chunk.js"
   },
   {
-    "revision": "6c0f6aac1fdc84b91678",
-    "url": "/Chocotto/static/js/main.ab3dd1a3.chunk.js"
+    "revision": "0ac2e808c6f3cf9df000",
+    "url": "/Chocotto/static/js/main.ec88fe57.chunk.js"
   },
   {
     "revision": "4c186ce9808f4f8c92a1",

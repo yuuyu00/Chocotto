@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Chocotto/static/js/main.ab3dd1a3.chunk.js",
-    "main.js.map": "/Chocotto/static/js/main.ab3dd1a3.chunk.js.map",
+    "main.js": "/Chocotto/static/js/main.ec88fe57.chunk.js",
+    "main.js.map": "/Chocotto/static/js/main.ec88fe57.chunk.js.map",
     "runtime~main.js": "/Chocotto/static/js/runtime~main.4e8f8f5a.js",
     "runtime~main.js.map": "/Chocotto/static/js/runtime~main.4e8f8f5a.js.map",
     "static/js/2.be9c890b.chunk.js": "/Chocotto/static/js/2.be9c890b.chunk.js",
     "static/js/2.be9c890b.chunk.js.map": "/Chocotto/static/js/2.be9c890b.chunk.js.map",
     "index.html": "/Chocotto/index.html",
-    "precache-manifest.1e5ebe5e548bad71a2681b44eab97714.js": "/Chocotto/precache-manifest.1e5ebe5e548bad71a2681b44eab97714.js",
+    "precache-manifest.04f908a545ee96bec0a231c611934880.js": "/Chocotto/precache-manifest.04f908a545ee96bec0a231c611934880.js",
     "service-worker.js": "/Chocotto/service-worker.js"
   }
 }
