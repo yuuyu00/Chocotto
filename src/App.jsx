@@ -1,19 +1,18 @@
-import React from 'react';
-import { Segment } from 'semantic-ui-react';
+import React from "react";
 
-import Header from './Components/Header';
-import Atk from './Components/Atk';
+import Header from "./Components/Header";
+import Atk from "./Components/Atk";
 
 function App() {
   return (
-    <div style={{marginTop: '0', marginBottom: '0', paddingTop: '80px'}}>
+    <div style={{ marginTop: "0", marginBottom: "0", paddingTop: "80px" }}>
       <Header />
       <div
         style={{
-          marginRight: '10vw',
-          marginLeft: '10vw',
-          marginTop: '0', 
-          marginBottom: '0',
+          marginRight: "10vw",
+          marginLeft: "10vw",
+          marginTop: "0",
+          marginBottom: "0"
         }}
       >
         <Atk />
