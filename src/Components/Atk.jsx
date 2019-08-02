@@ -34,15 +34,15 @@ export default () => {
           </Form.Field>
           <Form.Field>
             <label>POW合計</label>
-            <Input type="text" value={pow} onChange={handleSetPow} />
+            <input type="tel" value={pow} onChange={handleSetPow} />
           </Form.Field>
           <Form.Field>
             <label>装備ATK</label>
-            <input type="text" value={atk} onChange={handleSetAtk} />
+            <input type="tel" value={atk} onChange={handleSetAtk} />
           </Form.Field>
           <Form.Field>
             <label>キャラLV</label>
-            <input type="text" value={lv} onChange={handleSetLv} />
+            <input type="tel" value={lv} onChange={handleSetLv} />
           </Form.Field>
         </Form>
       </Segment>
