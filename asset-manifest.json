@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Choco/static/js/main.49da6a69.chunk.js",
+    "main.js.map": "/Choco/static/js/main.49da6a69.chunk.js.map",
+    "runtime~main.js": "/Choco/static/js/runtime~main.23ca6cf2.js",
+    "runtime~main.js.map": "/Choco/static/js/runtime~main.23ca6cf2.js.map",
+    "static/js/2.7c608476.chunk.js": "/Choco/static/js/2.7c608476.chunk.js",
+    "static/js/2.7c608476.chunk.js.map": "/Choco/static/js/2.7c608476.chunk.js.map",
+    "index.html": "/Choco/index.html",
+    "precache-manifest.ee736366832dc339332171a43b70454d.js": "/Choco/precache-manifest.ee736366832dc339332171a43b70454d.js",
+    "service-worker.js": "/Choco/service-worker.js"
+  }
+}
